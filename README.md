@@ -24,3 +24,12 @@ Proyecto realizado en la cursada de la bootcamp Soy Henry, realizada en un equip
 DB_HOST=localhost
 DB_PASSWORD=TuContraseña12345`
 - Corre el comando npm install tanto en la carpeta "api" como en "client", y luego podras iniciar ambos utilizando "npm start" en cada una de las carpetas.
+## Nosotros
+
+Somos un grupo de 5 estudiantes de [Soy Henry](https://www.soyhenry.com/). Estas son nuestras cuentas de GitHub:
+
+- [Juan Cruz Lescano](https://github.com/JuanCruzLescano)
+- [Juan Pablo Martinez](https://github.com/Jotap29)
+- [Mauricio Nicolas Cruz](https://github.com/maunicols)
+- [Federico Leiva](https://github.com/FedericoLeiva12)
+- [Manuel Beleño](https://github.com/msebass1)
